@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# I'm a Robotics Engineering student at Worcester Polytechnic Institute
+
+# 🌱 I’m currently learning a wide variety of languages and techniques to be more versatile
+
 <!--
 **Elliot-Reese/Elliot-Reese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
